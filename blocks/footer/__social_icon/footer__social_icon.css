@@ -1,0 +1,9 @@
+.footer__social_icon {
+    margin-right: 10px;
+  }
+
+.footer__social_icon:hover {
+ opacity: 0.65;
+ transition-duration: 0.3s;
+ transition-timing-function: linear;
+}

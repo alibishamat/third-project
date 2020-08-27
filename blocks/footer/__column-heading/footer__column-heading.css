@@ -1,0 +1,10 @@
+.footer__column-heading{
+    line-height: 30px;
+    font-size: 18px;
+    font-weight: bolder;
+    color: white;
+  }
+
+  .footer__column-heading:nth-of-type(1n){
+    margin-bottom: 20px;
+  }

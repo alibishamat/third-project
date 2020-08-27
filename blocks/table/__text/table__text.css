@@ -1,0 +1,16 @@
+
+  .table__text {
+    line-height: 1.2;
+    font-size: 18px;
+    font-weight: normal;
+    margin: 0;
+    padding: 0;
+  }
+  
+  .table__text:nth-of-type(1n) {
+    margin-bottom: 20px;
+  }
+  
+  .table__text:last-of-type{
+    margin-bottom: 0px;
+  }

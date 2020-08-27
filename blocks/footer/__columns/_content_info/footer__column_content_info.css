@@ -1,0 +1,8 @@
+.footer__column_content_info {
+    margin: 0;
+    padding: 0;
+   }
+
+   .footer__column_content_info:last-of-type {
+    margin-bottom: 16px; 
+  }

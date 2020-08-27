@@ -1,0 +1,12 @@
+.cards__title {
+    line-height: 1.15;
+    font-size: 24px;
+    font-weight: bolder;
+    margin: 0;
+    padding: 0;
+    text-align: center;
+  }  
+
+.cards__title:nth-of-type(1) {
+    margin-bottom: 16px;
+}
