@@ -1,0 +1,12 @@
+.khan__quote-author-subline {
+    font-size: 24px;
+    line-height: 1.15px;
+    font-weight: normal;
+    margin-top: 10px;
+    margin-bottom: 68px;
+}
+
+/*.khan__quote-author-subline:nth-of-type(1){
+    margin-top: 10px;
+    margin-bottom: 68px;
+}*/

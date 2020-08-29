@@ -3,5 +3,8 @@
     display: flex;
     flex-wrap: wrap;
     margin: 0 auto;
-    
   }
+
+.cards:nth-of-type(1) {
+    margin-bottom: 100px;
+}

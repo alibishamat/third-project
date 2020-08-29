@@ -1,0 +1,7 @@
+.video {
+   min-height: 50px;
+   overflow: hidden;
+   display: flex;
+   flex-direction: column;
+   position: relative;
+}

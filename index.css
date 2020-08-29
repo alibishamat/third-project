@@ -19,7 +19,7 @@
 @import url(../third-project/blocks/two-columns/two-columns__paragraph/two-columns__paragraph.css);
 @import url(../third-project/blocks/two-columns/two-columns__span-accent/two-columns__span-accent.css); 
 
-/* block */ 
+/* 3 block */ 
 
 @import url(../third-project/blocks/techniques/techniques.css);
 @import url(../third-project/blocks/cards/cards.css);
@@ -28,7 +28,18 @@
 @import url(../third-project/blocks/cards/__title/cards__title.css);
 @import url(../third-project/blocks/cards/__image/cards__image.css);
 
-/* 3 block */ 
+/* 4 block */
+
+@import url(../third-project/blocks/video/__iframes/video__iframes.css);
+@import url(../third-project/blocks/video/__iframe/video__iframe.css);
+@import url(../third-project/blocks/video/video.css);
+
+/* 5 block */
+
+@import url(../third-project/blocks/oakley/oakley.css);
+
+
+/* 6 block */ 
 
 @import url(../third-project/blocks/digits/digits.css);
 @import url(../third-project/blocks/section-subtitle/section-subtitle.css);
@@ -37,6 +48,19 @@
 @import url(../third-project/blocks/table/__cell/table__cell.css);
 @import url(../third-project/blocks/table/__heading/table__heading.css);
 @import url(../third-project/blocks/table/__text/table__text.css);
+
+/* 7 block */
+
+@import url(../third-project/blocks/khan/khan.css);
+@import url(../third-project/blocks/khan/__author/khan__author.css);
+@import url(../third-project/blocks/khan/__container/khan__container.css);
+@import url(../third-project/blocks/khan/__quote/khan__quote.css);
+@import url(../third-project/blocks/khan/__quote-author/khan__quote-author.css);
+@import url(../third-project/blocks/khan/__quote-author-subline/khan__quote-author-subline.css);
+@import url(../third-project/blocks/khan/__author/khan__author.css);
+@import url(../third-project/blocks/khan/__book-container/book__container.css);
+@import url(../third-project/blocks/khan/__book-pic/khan__book-pic.css);
+@import url(../third-project/blocks/khan/__buy-link/khan__buy-link.css);
 
 /* 4 block */ 
 
@@ -55,6 +79,12 @@
 @import url(../third-project/blocks/table/__text/_theme_dark/table__text_theme_dark.css);
 @import url(../third-project/blocks/section-title/_theme_dark/section-title_theme_dark.css);
 @import url(../third-project/blocks/section-subtitle/_theme_dark/section-subtitle_theme_dark.css);
+
+/* block*/
+
+@import url(../third-project/blocks/resources/resources.css);
+@import url(../third-project/blocks/resources/__logo-zone/resources__logo-zone.css);
+@import url(../third-project/blocks/resources/__logo/resources__logo.css);
 
 /* 6 block */ 
 
